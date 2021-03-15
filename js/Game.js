@@ -116,7 +116,7 @@ class Game{
          }
 
         // Add code for game end condition
-        if(player.score>= 100){
+        if(player.score>= 10){
             this.end()
         }
 
